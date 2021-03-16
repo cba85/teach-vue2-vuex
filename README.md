@@ -1,5 +1,7 @@
 # teach-vuex
 
+> For demonstration purpose only
+
 ## Steps
 
 1. Install VueX in Vue CLI
